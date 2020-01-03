@@ -1,8 +1,8 @@
 body{background:url('Project_Images/wellcom.jpg');
 background-size: cover;}
-#container{width:1000px;height: 400px;}
+#container{width:100%;height: 400px;}
 
-#alpha{width:1100px;height:80px;
+#alpha{width:100%;height:80px;
 text-align: center;margin-top: 30px;
 background: #fff}
 span{
